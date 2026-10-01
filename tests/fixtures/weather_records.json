@@ -1,0 +1,23 @@
+[
+  {
+    "city_id": "omaha",
+    "observed_at": "2025-01-01T00:00:00Z",
+    "temperature_2m": -2.5,
+    "relative_humidity_2m": 78,
+    "precipitation": 0.0
+  },
+  {
+    "city_id": "new_york",
+    "observed_at": "2025-01-01T00:00:00Z",
+    "temperature_2m": 4.2,
+    "relative_humidity_2m": 70,
+    "precipitation": 0.1
+  },
+  {
+    "city_id": "hyderabad",
+    "observed_at": "2025-01-01T00:00:00Z",
+    "temperature_2m": 20.5,
+    "relative_humidity_2m": 55,
+    "precipitation": 0.0
+  }
+]
